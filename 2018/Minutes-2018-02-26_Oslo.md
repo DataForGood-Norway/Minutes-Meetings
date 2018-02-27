@@ -131,8 +131,9 @@ What could that be?
 
 ## NEXT TASKS
 
-> Please write new tasks and assign yourself or others to it!
-> To do so, simply write issues to this repository and add labels to it!
+> Please write new tasks!
+> 
+> To do so, simply [write issues to this repository](https://github.com/DataForGood-Norway/Minutes-Meetings/issues), assign yourself or others to it, and possibly add labels to simply later search!
 
 If it is not clear, and it won't be if you are new to Github, please contact me patrick.merlot@gmail.com or ask for help on [Slack](https://data4good-no.slack.com).
 
