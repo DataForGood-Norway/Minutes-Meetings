@@ -8,6 +8,8 @@ Meeting facilitator: Peter Malec
 
 Aiko, Dirk, Eva, Fransis, Harjeet, Kleng, Patrick, Peter, Sveinung, Sybolt
 
+> Thanks a lot to Sveinung for coming from Hønefoss and sharing his experience from hack4no. 
+
 ## Agenda 
 
 The meeting was a discussion driven by the points in these [slides](https://docs.google.com/presentation/d/1HjO4Y0hVgtMDXqyY1tti_bs98z-B9XYrCu6qGMGZzUU/edit?ts=5a8c8e43#slide=id.gcb9a0b074_1_0).
