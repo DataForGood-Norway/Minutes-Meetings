@@ -68,7 +68,7 @@ The project:
 
 * address the need of some researchers at the polar institute. They are not many users to support, so easier in the first phase of development.
 * is scalable, since about 30 other groups worldwide would be interested in the same tool.
-* no $$$ money $$$.
+* has no funding to pay for developers.
 
 we also discussed technical challenges, but contact Bjørn on the [OrcaTag Slack's channel](https://dataforgood-norway.slack.com/messages/C9SPLJ46B/?) if you want to know more and contribute.
 
